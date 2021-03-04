@@ -1,0 +1,182 @@
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-BlackItalic.eot');
+    src: url('AncizarSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-BlackItalic.woff2') format('woff2'),
+        url('AncizarSans-BlackItalic.woff') format('woff'),
+        url('AncizarSans-BlackItalic.ttf') format('truetype'),
+        url('AncizarSans-BlackItalic.svg#AncizarSans-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Bold.eot');
+    src: url('AncizarSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Bold.woff2') format('woff2'),
+        url('AncizarSans-Bold.woff') format('woff'),
+        url('AncizarSans-Bold.ttf') format('truetype'),
+        url('AncizarSans-Bold.svg#AncizarSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Black.eot');
+    src: url('AncizarSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Black.woff2') format('woff2'),
+        url('AncizarSans-Black.woff') format('woff'),
+        url('AncizarSans-Black.ttf') format('truetype'),
+        url('AncizarSans-Black.svg#AncizarSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Extrablack.eot');
+    src: url('AncizarSans-Extrablack.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Extrablack.woff2') format('woff2'),
+        url('AncizarSans-Extrablack.woff') format('woff'),
+        url('AncizarSans-Extrablack.ttf') format('truetype'),
+        url('AncizarSans-Extrablack.svg#AncizarSans-Extrablack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-ExtrablackItalic.eot');
+    src: url('AncizarSans-ExtrablackItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-ExtrablackItalic.woff2') format('woff2'),
+        url('AncizarSans-ExtrablackItalic.woff') format('woff'),
+        url('AncizarSans-ExtrablackItalic.ttf') format('truetype'),
+        url('AncizarSans-ExtrablackItalic.svg#AncizarSans-ExtrablackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-BoldItalic.eot');
+    src: url('AncizarSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-BoldItalic.woff2') format('woff2'),
+        url('AncizarSans-BoldItalic.woff') format('woff'),
+        url('AncizarSans-BoldItalic.ttf') format('truetype'),
+        url('AncizarSans-BoldItalic.svg#AncizarSans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-ExtraboldItalic.eot');
+    src: url('AncizarSans-ExtraboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-ExtraboldItalic.woff2') format('woff2'),
+        url('AncizarSans-ExtraboldItalic.woff') format('woff'),
+        url('AncizarSans-ExtraboldItalic.ttf') format('truetype'),
+        url('AncizarSans-ExtraboldItalic.svg#AncizarSans-ExtraboldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Light.eot');
+    src: url('AncizarSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Light.woff2') format('woff2'),
+        url('AncizarSans-Light.woff') format('woff'),
+        url('AncizarSans-Light.ttf') format('truetype'),
+        url('AncizarSans-Light.svg#AncizarSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-RegularItalic.eot');
+    src: url('AncizarSans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-RegularItalic.woff2') format('woff2'),
+        url('AncizarSans-RegularItalic.woff') format('woff'),
+        url('AncizarSans-RegularItalic.ttf') format('truetype'),
+        url('AncizarSans-RegularItalic.svg#AncizarSans-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Extrabold.eot');
+    src: url('AncizarSans-Extrabold.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Extrabold.woff2') format('woff2'),
+        url('AncizarSans-Extrabold.woff') format('woff'),
+        url('AncizarSans-Extrabold.ttf') format('truetype'),
+        url('AncizarSans-Extrabold.svg#AncizarSans-Extrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-LightItalic.eot');
+    src: url('AncizarSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-LightItalic.woff2') format('woff2'),
+        url('AncizarSans-LightItalic.woff') format('woff'),
+        url('AncizarSans-LightItalic.ttf') format('truetype'),
+        url('AncizarSans-LightItalic.svg#AncizarSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Regular.eot');
+    src: url('AncizarSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Regular.woff2') format('woff2'),
+        url('AncizarSans-Regular.woff') format('woff'),
+        url('AncizarSans-Regular.ttf') format('truetype'),
+        url('AncizarSans-Regular.svg#AncizarSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-ThinItalic.eot');
+    src: url('AncizarSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-ThinItalic.woff2') format('woff2'),
+        url('AncizarSans-ThinItalic.woff') format('woff'),
+        url('AncizarSans-ThinItalic.ttf') format('truetype'),
+        url('AncizarSans-ThinItalic.svg#AncizarSans-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('AncizarSans-Thin.eot');
+    src: url('AncizarSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('AncizarSans-Thin.woff2') format('woff2'),
+        url('AncizarSans-Thin.woff') format('woff'),
+        url('AncizarSans-Thin.ttf') format('truetype'),
+        url('AncizarSans-Thin.svg#AncizarSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
